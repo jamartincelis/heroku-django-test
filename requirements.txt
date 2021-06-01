@@ -83,7 +83,7 @@ tinycss2==0.6.1
 traitlets==4.3.2
 typed-ast==1.1.1
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.26.5
 wcwidth==0.1.7
 WeasyPrint==0.42.3
 webencodings==0.5.1
